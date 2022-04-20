@@ -3,7 +3,7 @@
 title: How to buy - GIJ Cloud
 description: Learn how to buy your GitKraken Pro subscription.
 taxonomy:
-    doc_category: git-integration-for-jira-cloud
+    category: git-integration-for-jira-cloud
 
 ---
 

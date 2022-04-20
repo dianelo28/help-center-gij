@@ -3,7 +3,7 @@
 title: How to buy - GIJ Server
 description: Learn how to buy your GitKraken Pro subscription.
 taxonomy:
-    doc_category: git-integration-for-jira-server-data-center
+    category: git-integration-for-jira-server-data-center
 
 ---
 
